@@ -10,97 +10,112 @@
 
         <div class="product-grid">
             <!-- Product: Retatrutide -->
-            <div class="product-card featured">
-                <div class="product-tag">🔥 #1 Best Seller · 💎 Staff Pick</div>
+            <div class="product-card">
+                <div class="product-badges">
+                    <span class="hplc-badge">HPLC Verified 99.8%</span>
+                    <a href="#" class="coa-link">View COA</a>
+                </div>
+                <div class="product-tag">🔥 #1 Best Seller</div>
                 <div class="product-info">
                     <h3>Retatrutide</h3>
-                    <p class="product-desc">Triple-agonist GLP-1/GIP/glucagon. Bestseller.</p>
-                    <span class="category-tag">Weight Loss</span>
+                    <p class="product-desc">Triple-agonist GLP-1/GIP/glucagon for advanced metabolic research.</p>
+                    <div class="unit-price">Value: <span>$11.40/mg</span></div>
                     <div class="product-footer">
-                        <span class="price">From $114</span>
+                        <span class="price">$114.00</span>
+                        <a href="#" class="quick-add"><i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
 
             <!-- Product: MOTS-c -->
             <div class="product-card">
+                <div class="product-badges">
+                    <span class="hplc-badge">HPLC Verified 99.5%</span>
+                    <a href="#" class="coa-link">View COA</a>
+                </div>
                 <div class="product-tag">⚡ Trending</div>
                 <div class="product-info">
                     <h3>MOTS-c</h3>
-                    <p class="product-desc">Mitochondrial peptide for metabolism and endurance. Bestseller.</p>
-                    <span class="category-tag">Muscle Growth & Recovery</span>
+                    <p class="product-desc">Mitochondrial peptide for endurance and cellular metabolism research.</p>
+                    <div class="unit-price">Value: <span>$11.40/mg</span></div>
                     <div class="product-footer">
-                        <span class="price">From $114</span>
+                        <span class="price">$114.00</span>
+                        <a href="#" class="quick-add"><i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
 
             <!-- Product: BPC 157 -->
             <div class="product-card">
+                <div class="product-badges">
+                    <span class="hplc-badge">HPLC Verified 99.9%</span>
+                    <a href="#" class="coa-link">View COA</a>
+                </div>
                 <div class="product-tag">⭐ Top Rated</div>
                 <div class="product-info">
                     <h3>BPC 157</h3>
-                    <p class="product-desc">Gut and tissue healing peptide. Bestseller.</p>
-                    <span class="category-tag">Muscle Growth & Recovery</span>
+                    <p class="product-desc">Body protection compound for gastric and tissue repair studies.</p>
+                    <div class="unit-price">Value: <span>$17.60/mg</span></div>
                     <div class="product-footer">
-                        <span class="price">From $88</span>
+                        <span class="price">$88.00</span>
+                        <a href="#" class="quick-add"><i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
 
             <!-- Product: Tirzepatide -->
             <div class="product-card">
+                <div class="product-badges">
+                    <span class="hplc-badge">HPLC Verified 99.7%</span>
+                    <a href="#" class="coa-link">View COA</a>
+                </div>
                 <div class="product-tag">📈 Popular</div>
                 <div class="product-info">
                     <h3>Tirzepatide</h3>
-                    <p class="product-desc">GLP-1/GIP dual agonist for weight and glucose.</p>
-                    <span class="category-tag">Weight Loss</span>
+                    <p class="product-desc">Dual GLP-1/GIP receptor agonist for weight management research.</p>
+                    <div class="unit-price">Value: <span>$8.60/mg</span></div>
                     <div class="product-footer">
-                        <span class="price">From $86</span>
+                        <span class="price">$86.00</span>
+                        <a href="#" class="quick-add"><i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
 
             <!-- Product: TB500 -->
             <div class="product-card">
+                <div class="product-badges">
+                    <span class="hplc-badge">HPLC Verified 99.3%</span>
+                    <a href="#" class="coa-link">View COA</a>
+                </div>
                 <div class="product-tag">🏆 Classic</div>
                 <div class="product-info">
-                    <h3>TB500 (Thymosin Beta-4)</h3>
-                    <p class="product-desc">Tissue repair and flexibility peptide.</p>
-                    <span class="category-tag">Muscle Growth & Recovery</span>
+                    <h3>TB500</h3>
+                    <p class="product-desc">Thymosin Beta-4 for tissue repair and angiogenesis research.</p>
+                    <div class="unit-price">Value: <span>$19.00/mg</span></div>
                     <div class="product-footer">
-                        <span class="price">From $95</span>
+                        <span class="price">$95.00</span>
+                        <a href="#" class="quick-add"><i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
 
             <!-- Product: Pinealon -->
             <div class="product-card">
-                <div class="product-tag">✨ Newcomer</div>
+                <div class="product-badges">
+                    <span class="hplc-badge">HPLC Verified 99.6%</span>
+                    <a href="#" class="coa-link">View COA</a>
+                </div>
+                <div class="product-tag">✨ Cognitive</div>
                 <div class="product-info">
                     <h3>Pinealon</h3>
-                    <p class="product-desc">Neuropeptide for cognitive support and mental clarity.</p>
-                    <span class="category-tag">Cognitive Enhancement</span>
+                    <p class="product-desc">Short neuropeptide for circadian rhythm and cognitive research.</p>
+                    <div class="unit-price">Value: <span>$14.50/mg</span></div>
                     <div class="product-footer">
-                        <span class="price">From $145</span>
+                        <span class="price">$145.00</span>
+                        <a href="#" class="quick-add"><i class="fas fa-plus"></i></a>
                     </div>
                 </div>
             </div>
-
-            <!-- Product: HGH -->
-            <div class="product-card">
-                <div class="product-tag">💪 Essential</div>
-                <div class="product-info">
-                    <h3>HGH (Somatropin)</h3>
-                    <p class="product-desc">Recombinant human growth hormone.</p>
-                    <span class="category-tag">Muscle Growth & Recovery</span>
-                    <div class="product-footer">
-                        <span class="price">From $99</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- More products can be added here -->
         </div>
     </div>
 </section>
@@ -265,19 +280,22 @@
 
         <div class="steps-grid">
             <div class="step">
+                <div class="step-icon"><i class="fas fa-shopping-cart"></i></div>
                 <div class="step-number">1</div>
-                <h3>Add to Cart</h3>
-                <p>Select your peptides and quantities</p>
+                <h3>Precision Selection</h3>
+                <p>Choose from our verified catalog of research compounds and specify your requirements.</p>
             </div>
             <div class="step">
+                <div class="step-icon"><i class="fas fa-wallet"></i></div>
                 <div class="step-number">2</div>
-                <h3>Receive Payment Details</h3>
-                <p>We'll email you the crypto wallet address</p>
+                <h3>Secure Settlement</h3>
+                <p>Complete your acquisition via encrypted crypto settlement for maximum privacy and speed.</p>
             </div>
             <div class="step">
+                <div class="step-icon"><i class="fas fa-box-open"></i></div>
                 <div class="step-number">3</div>
-                <h3>Order Ships</h3>
-                <p>Ships within 24–48h after payment confirms</p>
+                <h3>Rapid Dispatch</h3>
+                <p>Orders are dispatched within 24h with full tracking and our guaranteed delivery protocol.</p>
             </div>
         </div>
 
@@ -287,6 +305,28 @@
                 <li>✓ Tracking included</li>
                 <li>✓ Reship policy available</li>
             </ul>
+        </div>
+    </div>
+</section>
+
+<section id="trust-signals" class="section bg-dark">
+    <div class="container">
+        <div class="trust-signals-grid">
+            <div class="trust-signal-card">
+                <span class="icon">🏭</span>
+                <h3>cGMP Certified</h3>
+                <p>All products are manufactured in a cGMP compliant facility ensuring the highest quality standards.</p>
+            </div>
+            <div class="trust-signal-card">
+                <span class="icon">✈️</span>
+                <h3>Same Day Shipping</h3>
+                <p>Orders placed before 2 PM EST are dispatched the same business day with full tracking.</p>
+            </div>
+            <div class="trust-signal-card">
+                <span class="icon">🧪</span>
+                <h3>HPLC Rebate</h3>
+                <p>We offer a full rebate if you conduct your own third-party testing and share the results.</p>
+            </div>
         </div>
     </div>
 </section>
