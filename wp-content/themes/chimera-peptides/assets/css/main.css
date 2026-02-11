@@ -1,16 +1,16 @@
 /* Main Styles for Chimera Peptides */
 
 :root {
-    --primary-color: #007bff;
-    --secondary-color: #6c757d;
-    --dark-bg: #0a0a0a;
-    --light-bg: #f8f9fa;
+    --primary-color: #2563eb; /* Blue 600 */
+    --secondary-color: #64748b; /* Slate 500 */
+    --dark-bg: #0f172a; /* Slate 900 */
+    --light-bg: #f8fafc; /* Slate 50 */
     --card-bg: #ffffff;
-    --text-color: #333333;
-    --text-light: #666666;
-    --accent-color: #f39c12; /* Gold/Orange for best sellers */
-    --success-color: #28a745;
-    --border-color: #e0e0e0;
+    --text-color: #0f172a; /* Slate 900 */
+    --text-light: #475569; /* Slate 600 */
+    --accent-color: #f59e0b; /* Amber 500 */
+    --success-color: #10b981; /* Emerald 500 */
+    --border-color: #e2e8f0; /* Slate 200 */
     --container-width: 1200px;
 }
 
@@ -79,9 +79,10 @@ body {
 
 /* Hero Section */
 .hero {
-    padding: 100px 0;
+    padding: 120px 0;
     text-align: center;
-    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    background: #ffffff;
+    border-bottom: 1px solid var(--border-color);
 }
 
 .hero h1 {
@@ -224,6 +225,7 @@ body {
     padding: 30px;
     border-radius: 12px;
     text-align: center;
+    border: 1px solid var(--border-color);
 }
 
 .goal-card h3 {
@@ -277,29 +279,34 @@ body {
 /* Buttons */
 .btn {
     display: inline-block;
-    padding: 12px 24px;
-    border-radius: 8px;
+    padding: 10px 20px;
+    border-radius: 6px;
     font-weight: 600;
+    font-size: 14px;
     cursor: pointer;
-    transition: all 0.3s;
+    transition: all 0.2s ease;
 }
 
 .btn-primary {
-    background: var(--primary-color);
+    background: #000000;
     color: #fff;
+    border: 1px solid #000000;
 }
 
 .btn-primary:hover {
-    background: #0056b3;
+    background: #333333;
+    border-color: #333333;
 }
 
 .btn-outline {
     border: 1px solid var(--border-color);
-    background: transparent;
+    background: #fff;
+    color: var(--text-color);
 }
 
 .btn-outline:hover {
-    background: #f8f9fa;
+    background: #f8fafc;
+    border-color: #cbd5e1;
 }
 
 /* How It Works */
