@@ -1,0 +1,14 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+*.log
+.htaccess
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
